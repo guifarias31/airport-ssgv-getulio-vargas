@@ -1,4 +1,4 @@
-<AssetPackage Name="mycompany-airport-ssgv-getulio" Version="0.1.0">
+<AssetPackage Name="placeholder-name" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title/>
@@ -15,16 +15,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\mycompany-airport-ssgv-getulio\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\mycompany-airport-ssgv-getulio</OutputDir>
+			<AssetDir>PackageDefinitions\placeholder-name\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\placeholder-name</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="placeholder-name">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\data\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
+			<AssetDir>PackageSources\data</AssetDir>
+			<OutputDir>scenery</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
