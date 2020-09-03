@@ -4,9 +4,9 @@ Created by: GuiFarias31
 
 This airport is free to use. If you use this airport in a stream or other creative media, all I ask is to receive credit for the airport.
 
-Current version: v0.9.2. Image previews here: https://imgur.com/a/d6TPuwS
+Current version: v0.9.3. Image previews from 0.9.1 here: https://imgur.com/a/d6TPuwS
 
-Download link: https://github.com/guifarias31/airport-ssgv-getulio-vargas/releases/download/0.9.2/airport-ssgv-getulio.rar
+Download link: https://github.com/guifarias31/airport-ssgv-getulio-vargas/releases/download/0.9.3/airport-ssgv-getulio.rar
 
 INSTALLATION INSTRUCTIONS
 
