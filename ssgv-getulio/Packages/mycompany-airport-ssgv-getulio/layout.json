@@ -2,23 +2,23 @@
   "content": [
     {
       "path": "ContentInfo/mycompany-airport-ssgv-getulio/Thumbnail.jpg",
-      "size": 13520,
-      "date": 132399125780000000
+      "size": 40109,
+      "date": 132435600075449370
     },
     {
       "path": "manifest.json",
       "size": 271,
-      "date": 132434825832798359
+      "date": 132435759228217269
     },
     {
       "path": "scenery/airport-ssgv-getulio.bgl",
-      "size": 5229,
-      "date": 132435329635201530
+      "size": 8889,
+      "date": 132435762910101778
     },
     {
       "path": "scenery/AIRPORT-SSGV-POLY.BGL",
-      "size": 4645,
-      "date": 132435329635571596
+      "size": 7514,
+      "date": 132435762910671878
     }
   ]
 }
