@@ -15,10 +15,10 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\mycompany-airport-ssgv-getulio\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\mycompany-airport-ssgv-getulio</OutputDir>
+			<AssetDir>PackageDefinitions\mycompany-airport-ssgv-getulio\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\mycompany-airport-ssgv-getulio\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="placeholder-name">
+		<AssetGroup Name="mycompany-ssgv">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>

@@ -478,20 +478,14 @@
 	<SceneryObject lat="-27.86427657260802" lon="-52.18405602229753" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{7B528ABA-3727-4728-B314-7BBC6F9821A9}" scale="1.000000"/>
 	</SceneryObject>
-	<Rectangle width="100.000000" falloff="200.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="-27.86377928005714" longitude="-52.18137277803537" altitude="666.52442072983831" latitude2="-27.86447615256703" longitude2="-52.18158452010564" altitude2="666.52255866769701">
-		<RunwayDeformation alt="660.432007" ratio="0.000000"/>
-		<RunwayDeformation alt="666.436096" ratio="1.000000"/>
-	</Rectangle>
-	<Rectangle width="700.000000" falloff="200.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="-27.86228317782196" longitude="-52.18752086779339" altitude="666.43398357555270" latitude2="-27.86298005044550" longitude2="-52.18773260695168" altitude2="666.43209666851908">
-		<RunwayDeformation alt="660.432007" ratio="0.000000"/>
-		<RunwayDeformation alt="666.436096" ratio="1.000000"/>
-	</Rectangle>
 	<Airport name="Getulio Vargas" ident="SSGV" lat="-27.86366145237077" lon="-52.18300396425351" alt="662.48862049449235" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
-		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="-27.86417751244138" lon="-52.18300016978275" heading="350.000000" radius="5.000000" name="PARKING" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="-27.86417751244138" lon="-52.18300016978275" heading="350.000000" radius="5.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
 		<Runway lat="-27.86245008631189" lon="-52.18508776573447" alt="670.31297458522022" heading="105.00000000000000" length="1200.00000000000000" width="40.00000000000000" patternAltitude="304.79998779296875" surface="{00000000-0000-0000-0000-000000000000}" transparent="TRUE" number="12" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="-27.86245008631189" lon="-52.18508776573447" alt="670.31297458522022" heading="105.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="-27.86245008631189" lon="-52.18508776573447" alt="670.31297458522022" heading="285.00000000000000"/>
 		</Runway>
 		<Aprons/>
 		<PaintedElements/>
