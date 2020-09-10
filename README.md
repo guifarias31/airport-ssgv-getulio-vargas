@@ -1,4 +1,4 @@
-## SSGV - Getulio Vargas for MSFS ##
+## SSGV - Getulio Vargas Airstrip for MSFS ##
 
 Created by: GuiFarias31
 
