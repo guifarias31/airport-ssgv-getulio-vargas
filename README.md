@@ -8,8 +8,12 @@ Current version: v0.9.4. Image previews from 0.9.2 here: https://imgur.com/a/d6T
 
 Download link: https://github.com/guifarias31/airport-ssgv-getulio-vargas/releases/download/0.9.3/airport-ssgv-getulio.rar
 
-INSTALLATION INSTRUCTIONS
+## How to Install
 
 Drag the folder "airport-ssgv-getulio" into your MSFS\Community directory.
 
-If you want to support me, here my PayPal donation link: http://bit.ly/PaypalFarias
+## Donation
+
+If you want to support me, here my donation link:
+
+[![Donation](https://i.imgur.com/vQyI7N5.png)](https://www.buymeacoffee.com/guifarias31)
