@@ -24,7 +24,7 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\data\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
+			<OutputDir>scenery\global\scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>

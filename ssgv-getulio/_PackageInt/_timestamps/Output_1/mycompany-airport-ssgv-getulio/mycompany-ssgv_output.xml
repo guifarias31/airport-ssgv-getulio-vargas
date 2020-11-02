@@ -1,5 +1,7 @@
 <Timestamps>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssgv-getulio\Packages\mycompany-airport-ssgv-getulio\scenery\airport-ssgv-poly.bgl" Timestamp="13245961552" NbSourceFile="4"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssgv-getulio\Packages\mycompany-airport-ssgv-getulio\scenery\airport-ssgv-getulio.bgl" Timestamp="13245961552" NbSourceFile="1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssgv-getulio\Packages\mycompany-airport-ssgv-getulio\scenery\global\scenery\airport-ssgv-poly.bgl" Timestamp="13248762607" NbSourceFile="4"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssgv-getulio\Packages\mycompany-airport-ssgv-getulio\scenery\airport-ssgv-poly.bgl" Timestamp="13245961552" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssgv-getulio\Packages\mycompany-airport-ssgv-getulio\scenery\airport-ssgv-getulio.bgl" Timestamp="13245961552" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssgv-getulio\Packages\mycompany-airport-ssgv-getulio\scenery\global\scenery\airport-ssgv-getulio.bgl" Timestamp="13248762607" NbSourceFile="1"/>
 </Timestamps>
 

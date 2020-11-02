@@ -6,19 +6,14 @@
       "date": 132435600075449370
     },
     {
-      "path": "manifest.json",
-      "size": 271,
-      "date": 132436497915518828
-    },
-    {
-      "path": "scenery/airport-ssgv-getulio.bgl",
+      "path": "scenery/global/scenery/airport-ssgv-getulio.bgl",
       "size": 8365,
-      "date": 132459615524033457
+      "date": 132487626070180041
     },
     {
-      "path": "scenery/AIRPORT-SSGV-POLY.BGL",
+      "path": "scenery/global/scenery/AIRPORT-SSGV-POLY.BGL",
       "size": 7468,
-      "date": 132459615524721783
+      "date": 132487626070833198
     }
   ]
 }
